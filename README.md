@@ -1,1 +1,1 @@
-# Projeto API desenvolvido com Spring Boot e ReactJS
+# Projeto com Spring Boot e ReactJS
